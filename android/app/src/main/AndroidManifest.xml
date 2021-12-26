@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.perizinanapp">
+    package="com.simap.perizinanapp">
    <application
         android:label="Simap"
         android:icon="@mipmap/ic_launcher">
