@@ -1,6 +1,6 @@
 # Simap 
 
-Simap is a System Informasi Manajemen & Akuntansi Perizinan
+Simap is a System Informasi Manajemen & Akuntansi Perizinan, a request to help Bulukumba Kab government
 
 ## Getting Started
 
