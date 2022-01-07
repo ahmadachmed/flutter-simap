@@ -1,6 +1,6 @@
-# perizinanapp
+# Simap 
 
-A new Flutter project.
+Simap is a System Informasi Manajemen & Akuntansi Perizinan
 
 ## Getting Started
 
